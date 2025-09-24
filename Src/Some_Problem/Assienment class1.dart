@@ -1,4 +1,3 @@
-import 'dart:math';
 
 void main() {
   //Q1. Print numbers 1-100;
